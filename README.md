@@ -1,5 +1,9 @@
 # Github Favorites
 
+<p align="center">
+  <img alt="Print" src="./print1.png" width="50%">
+</p>
+
 O Github Favorites é uma aplicação web que permite aos usuários buscar perfis do GitHub e salvá-los em uma lista de favoritos. A interface intuitiva facilita a adição e remoção de usuários favoritos, bem como a visualização de informações-chave, como o número de repositórios e seguidores.
 
 ## Funcionalidades
