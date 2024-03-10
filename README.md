@@ -40,7 +40,7 @@ Para remover um usuário dos favoritos:
 2. Confirme a remoção.
 
 ## Projeto finalizado
-- (https://devgentil.github.io/SPAUniverse/)
+- (https://devgentil.github.io/GithubFavorite/)
 
 ## Licença
 Este projeto é licenciado sob a Rocketseat, o que significa que você pode usá-lo livremente para fins pessoais e comerciais, mas deve manter o reconhecimento do autor original.
