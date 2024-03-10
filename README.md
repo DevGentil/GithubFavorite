@@ -30,19 +30,6 @@ O Github Favorites é uma aplicação web que permite aos usuários buscar perfi
 - `GithubUser.js`: Classe responsável pela busca de dados dos usuários do GitHub.
 - `Favorites.js`: Contém as classes `Favorites` e `FavoritesView` que gerenciam a lógica de dados e a visualização/interface respectivamente.
 
-## Uso
-
-Para adicionar um usuário aos favoritos:
-
-1. Digite o nome de usuário do GitHub no campo de busca.
-2. Pressione o botão de adição.
-3. O usuário será adicionado à lista de favoritos, caso exista.
-
-Para remover um usuário dos favoritos:
-
-1. Clique no botão de remoção (ícone de x) ao lado do usuário desejado.
-2. Confirme a remoção.
-
 ## Projeto finalizado
 - (https://devgentil.github.io/GithubFavorite/)
 
